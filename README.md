@@ -1,4 +1,4 @@
-# Xcode_projects/n
-Домашнии задания по курсу IOS
-Лесь Даниил Вадимович
-dvles@edu.hse.ru
+# Xcode_projects
+IOS course homework
+by Daniel Les
+contacts: dvles@edu.hse.ru
